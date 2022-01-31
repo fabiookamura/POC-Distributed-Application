@@ -6,14 +6,14 @@
 
   <ItemGroup>
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Silverback.Core" Version="3.5.0" />
+    <PackageReference Include="Silverback.Core.Model" Version="3.5.0" />
+    <PackageReference Include="Silverback.Integration" Version="3.5.0" />
+    <PackageReference Include="Silverback.Integration.Kafka" Version="3.5.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\POC.Distribute.Application.Business.Domain\POC.Distribute.Application.Business.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Consumers\" />
   </ItemGroup>
 
 </Project>
