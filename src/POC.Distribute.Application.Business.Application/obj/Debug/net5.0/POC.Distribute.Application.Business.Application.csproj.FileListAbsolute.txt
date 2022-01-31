@@ -1,0 +1,15 @@
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\bin\Debug\net5.0\POC.Distribute.Application.Business.Application.deps.json
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\bin\Debug\net5.0\POC.Distribute.Application.Business.Application.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\bin\Debug\net5.0\ref\POC.Distribute.Application.Business.Application.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\bin\Debug\net5.0\POC.Distribute.Application.Business.Application.pdb
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.pdb
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.csproj.AssemblyReference.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.AssemblyInfoInputs.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.AssemblyInfo.cs
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.csproj.CoreCompileInputs.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.csproj.CopyComplete
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\ref\POC.Distribute.Application.Business.Application.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Application\obj\Debug\net5.0\POC.Distribute.Application.Business.Application.pdb

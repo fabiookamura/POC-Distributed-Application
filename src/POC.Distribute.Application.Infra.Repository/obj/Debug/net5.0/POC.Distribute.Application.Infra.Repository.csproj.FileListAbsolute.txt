@@ -1,0 +1,15 @@
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\bin\Debug\net5.0\POC.Distribute.Application.Infra.Repository.deps.json
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\bin\Debug\net5.0\POC.Distribute.Application.Infra.Repository.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\bin\Debug\net5.0\ref\POC.Distribute.Application.Infra.Repository.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\bin\Debug\net5.0\POC.Distribute.Application.Infra.Repository.pdb
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.pdb
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.csproj.AssemblyReference.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.AssemblyInfoInputs.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.AssemblyInfo.cs
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.csproj.CoreCompileInputs.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.csproj.CopyComplete
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\ref\POC.Distribute.Application.Infra.Repository.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Infra.Repository\obj\Debug\net5.0\POC.Distribute.Application.Infra.Repository.pdb

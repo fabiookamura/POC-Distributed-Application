@@ -1,0 +1,12 @@
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.deps.json
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\bin\Debug\net5.0\ref\POC.Distribute.Application.Business.Domain.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\bin\Debug\net5.0\POC.Distribute.Application.Business.Domain.pdb
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.AssemblyInfoInputs.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.AssemblyInfo.cs
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.csproj.CoreCompileInputs.cache
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\ref\POC.Distribute.Application.Business.Domain.dll
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.pdb
+C:\Personal Projects\POC-Distribute-Application\src\POC.Distribute.Application.Business.Domain\obj\Debug\net5.0\POC.Distribute.Application.Business.Domain.csproj.AssemblyReference.cache

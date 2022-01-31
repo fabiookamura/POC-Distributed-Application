@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Presentation.Api\\POC.Distribute.Application.Presentation.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\POC.Distribute.Application.Business.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\POC.Distribute.Application.Business.Application.csproj",
+        "projectName": "POC.Distribute.Application.Business.Application",
+        "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\POC.Distribute.Application.Business.Application.csproj",
+        "packagesPath": "C:\\Users\\Fábio Okamura\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fábio Okamura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj": {
+                "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj",
+        "projectName": "POC.Distribute.Application.Business.Domain",
+        "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj",
+        "packagesPath": "C:\\Users\\Fábio Okamura\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fábio Okamura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Infra.Repository\\POC.Distribute.Application.Infra.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Infra.Repository\\POC.Distribute.Application.Infra.Repository.csproj",
+        "projectName": "POC.Distribute.Application.Infra.Repository",
+        "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Infra.Repository\\POC.Distribute.Application.Infra.Repository.csproj",
+        "packagesPath": "C:\\Users\\Fábio Okamura\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Infra.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fábio Okamura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj": {
+                "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Presentation.Api\\POC.Distribute.Application.Presentation.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Presentation.Api\\POC.Distribute.Application.Presentation.Api.csproj",
+        "projectName": "POC.Distribute.Application.Presentation.Api",
+        "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Presentation.Api\\POC.Distribute.Application.Presentation.Api.csproj",
+        "packagesPath": "C:\\Users\\Fábio Okamura\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Presentation.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fábio Okamura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\POC.Distribute.Application.Business.Application.csproj": {
+                "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\POC.Distribute.Application.Business.Application.csproj"
+              },
+              "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj": {
+                "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Domain\\POC.Distribute.Application.Business.Domain.csproj"
+              },
+              "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Infra.Repository\\POC.Distribute.Application.Infra.Repository.csproj": {
+                "projectPath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Infra.Repository\\POC.Distribute.Application.Infra.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
