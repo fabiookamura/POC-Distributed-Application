@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using POC.Distribute.Application.Business.Domain.Interfaces;
+using POC.Distribute.Application.Infra.Repository.WriteOnly;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace POC.Distribute.Application.Infra.Repository
     {
         public static IServiceCollection AddRepository(this IServiceCollection service)
         {
-            service.AddScoped<IUserRepository, UserRepository>();
+            service.AddScoped<IUserRepository, UserWriteOnlyRepository>();
             return service;
         }
     }

@@ -20,12 +20,7 @@ namespace POC.Distribute.Application.Business.Application.UseCases.User
 
         public async Task<InsertUserCommandResponse> Handle(InsertUserCommandRequest request, CancellationToken cancellationToken)
         {
-            var user = new POC.Distribute.Application.Business.Domain.Entities.User()
-            {
-                Email = request.Email,
-                Nome = request.Nome,
-                UserId = 0
-            };
+            var user = new POC.Distribute.Application.Business.Domain.Entities.User(0, request.Nome, request.Email);
             var result = await _userRepository.InsertUserAsync(user);
 
             return new InsertUserCommandResponse(result);

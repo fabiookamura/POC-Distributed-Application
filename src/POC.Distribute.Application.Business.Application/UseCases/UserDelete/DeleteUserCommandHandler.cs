@@ -20,10 +20,7 @@ namespace POC.Distribute.Application.Business.Application.UseCases.UserDelete
 
         public async Task<DeleteUserCommandResponse> Handle(DeleteUserCommandRequest request, CancellationToken cancellationToken)
         {
-            var user = new POC.Distribute.Application.Business.Domain.Entities.User()
-            {
-                UserId = request.UserId
-            };
+            var user = new POC.Distribute.Application.Business.Domain.Entities.User(request.UserId, "", "");
             var result = await _userRepository.DeleteUserAsync(user);
 
             return new DeleteUserCommandResponse(result);

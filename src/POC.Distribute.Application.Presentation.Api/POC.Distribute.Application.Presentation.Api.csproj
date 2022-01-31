@@ -12,6 +12,7 @@
   <ItemGroup>
     <ProjectReference Include="..\POC.Distribute.Application.Business.Application\POC.Distribute.Application.Business.Application.csproj" />
     <ProjectReference Include="..\POC.Distribute.Application.Business.Domain\POC.Distribute.Application.Business.Domain.csproj" />
+    <ProjectReference Include="..\POC.Distribute.Application.Infra.Bootstrap\POC.Distribute.Application.Infra.Bootstrap.csproj" />
     <ProjectReference Include="..\POC.Distribute.Application.Infra.Repository\POC.Distribute.Application.Infra.Repository.csproj" />
   </ItemGroup>
 

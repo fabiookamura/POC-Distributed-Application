@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using POC.Distribute.Application.Business.Application.UseCases.User;
+using POC.Distribute.Application.Infra.Bootstrap;
 using POC.Distribute.Application.Infra.Repository;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,7 @@ namespace POC.Distribute.Application.Presentation.Api
             service.AddSwaggerGen();
             service.AddMediatR(typeof(InsertUserCommandHandler));
             service.AddRepository();
+            service.AddKafka();
 
             return service;
         }

@@ -52,6 +52,22 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Silverback.Core": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Silverback.Core.Model": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Silverback.Integration": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Silverback.Integration.Kafka": {
+              "target": "Package",
+              "version": "[3.5.0, )"
             }
           },
           "imports": [

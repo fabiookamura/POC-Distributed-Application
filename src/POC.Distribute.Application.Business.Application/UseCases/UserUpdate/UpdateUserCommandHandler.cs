@@ -20,12 +20,8 @@ namespace POC.Distribute.Application.Business.Application.UseCases.UserUpdate
 
         public async Task<UpdateUserCommandResponse> Handle(UpdateUserCommandRequest request, CancellationToken cancellationToken)
         {
-            var user = new POC.Distribute.Application.Business.Domain.Entities.User()
-            {
-                Email = request.Email,
-                Nome = request.Nome,
-                UserId = request.UserId
-            };
+            var user = new POC.Distribute.Application.Business.Domain.Entities.User(request.UserId, request.Nome, request.Email);
+
             var result = await _userRepository.UpdateUserAsync(user);
 
             return new UpdateUserCommandResponse(result);

@@ -1,13 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "MLnTanQ2eAkDqal85lC59SJeO+NjeOYc38SFix6Q5yS1STUPQwByyT7rJewRcucrp2lAsGA3yiMAfKYg5KcxKQ==",
+  "dgSpecHash": "GRVQaJZx3S9XpyqV9jB9AAzhCrlyWJagjLWin2lDzWTFz4VWf6dDTGLfU52WqyCt52PsVu8RbE6wkQulnQRz1Q==",
   "success": true,
   "projectFilePath": "C:\\Personal Projects\\POC-Distribute-Application\\src\\POC.Distribute.Application.Business.Application\\POC.Distribute.Application.Business.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
     "C:\\Users\\Fábio Okamura\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Fábio Okamura\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Fábio Okamura\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
-    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\silverback.core\\3.5.0\\silverback.core.3.5.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\silverback.core.model\\3.5.0\\silverback.core.model.3.5.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\silverback.integration\\3.5.0\\silverback.integration.3.5.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\silverback.integration.kafka\\3.5.0\\silverback.integration.kafka.3.5.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Fábio Okamura\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
